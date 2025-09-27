@@ -38,6 +38,11 @@ The website contains these main sections:
 5. **Travel Packages**: Pricing table for various travel packages
 6. **Contact Section**: Contact information for travel assistance
 
+## 📸 Screenshots
+<img width="1899" height="874" alt="output-1" src="https://github.com/user-attachments/assets/a456e90d-cd62-44b9-90c9-b6e7665027ac" />
+
+
+
 ## 🚀 Installation
 
 To run this website locally:
