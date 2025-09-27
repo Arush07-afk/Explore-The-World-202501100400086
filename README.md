@@ -3,13 +3,13 @@
 A responsive and visually appealing travel website showcasing beautiful destinations around the world with detailed information, travel packages, and essential travel resources.
 
 ## 📋 Table of Contents
-- [About](#about)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Website Structure](#website-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Customization](#customization)
+- [About]
+- [Features]
+- [Technologies Used]
+- [Website Structure]
+- [Installation]
+- [Usage]
+- [Customization]
 
 ## 📖 About
 
@@ -40,6 +40,10 @@ The website contains these main sections:
 
 ## 📸 Screenshots
 <img width="1899" height="874" alt="output-1" src="https://github.com/user-attachments/assets/a456e90d-cd62-44b9-90c9-b6e7665027ac" />
+<img width="1899" height="812" alt="output-2" src="https://github.com/user-attachments/assets/8c5e1452-c2a2-4096-9d1c-a0d8873b03ab" />
+<img width="1901" height="822" alt="output-3" src="https://github.com/user-attachments/assets/41be9d5f-a0ca-4eb9-bb78-ea2ca41514ee" />
+
+
 
 
 
