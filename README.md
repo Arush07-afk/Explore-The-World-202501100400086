@@ -7,6 +7,7 @@ A responsive and visually appealing travel website showcasing beautiful destinat
 - [Features]
 - [Technologies Used]
 - [Website Structure]
+- [Screenshots]
 - [Installation]
 - [Usage]
 - [Customization]
